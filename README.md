@@ -22,21 +22,21 @@
 ## SVM Code Example
 'SVM_Code_Example.ipynb' is a Juypter Notebook documented in Python and Markdown language analyzing the sklean iris dataset using SVM based on the sklearn.svm.SVC() function. This notebook use the follwing modules:
 
-###Pandas 
+### Pandas 
 <href>https://pandas.pydata.org</href>
 
-###NumPy 
+### NumPy 
 <href>https://numpy.org/</href>
 
-###Matplotlib
+### Matplotlib
 <href>https://matplotlib.org/</href>
   - matplotlib.pyplot
   - matplotlib.colors.ListedColormap
   - 
-###Seaborn
+### Seaborn
 <href>https://seaborn.pydata.org/</href>
 
-###Sklearn
+### Sklearn
 <href>https://scikit-learn.org/stable/</href>
   - sklearn.svm.SVC
   - sklearn.datasets
