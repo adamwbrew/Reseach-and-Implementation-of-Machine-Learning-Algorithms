@@ -1,4 +1,4 @@
-# Research-and-Implementation-of-Machine-Learning-Algorithms
+# Research and Implementation of Machine Learning Algorithms
 
 ## Table of Contents
 - [Research Product](#Research-Product)
