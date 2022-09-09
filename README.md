@@ -1,4 +1,4 @@
-# SVM -Support Vector Machines
+# SVM - Support Vector Machines
 
 ## Table of Contents
 - [Support Vector Machine Presentation](#Support-Vector-Machine-Presentation)
@@ -36,6 +36,5 @@
   - sklearn.svm
   - sklearn.datasets
   - sklearn.svm.SVC
-  - sklearn.model_selection 
   - sklearn.model_selection.train_test_split
   - sklearn.preprocessing.StandardScaler
