@@ -1,4 +1,4 @@
-# SVM -Support Vector Machines
+# SVM - Support Vector Machines
 
 ## Table of Contents
 - [Support Vector Machine Presentation](#Support-Vector-Machine-Presentation)
