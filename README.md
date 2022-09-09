@@ -36,6 +36,5 @@
   - sklearn.svm
   - sklearn.datasets
   - sklearn.svm.SVC
-  - sklearn.model_selection 
   - sklearn.model_selection.train_test_split
   - sklearn.preprocessing.StandardScaler
