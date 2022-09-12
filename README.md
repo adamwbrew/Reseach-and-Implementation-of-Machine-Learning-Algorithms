@@ -10,4 +10,8 @@ An in depth research product of the machine learning algorithm **Support Vector 
  - SVM Code Example formatted in Jupyter Notebook
  
 ## Model Implementation
- - Will be added later on.
+An in depth implementation of the machine learning algorithm **Density-Based Spatial Clustering of Applications with Noise (DBSCAN)** by hypertuning hyperparameters to optimize the model. 
+ - DBSCAN Presentation with K Means Clustering Comparision
+ - DBSCAN Code formatted in Jupyter Notebook
+ - K Means Code formatted in Jupyter Notebook
+ - Modules and Dataset used
