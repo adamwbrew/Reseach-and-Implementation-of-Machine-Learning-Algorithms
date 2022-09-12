@@ -38,7 +38,6 @@ Python modules needed for both 'DBSCAN_Implementation.ipynb' and 'K_Means_Compar
 ### Matplotlib
 <href>https://matplotlib.org</href>
   - matplotlib.pyplot
-  - matplotlib.colors.ListedColormap
 ### Seaborn
 <href>https://seaborn.pydata.org</href>
 ### Sklearn
