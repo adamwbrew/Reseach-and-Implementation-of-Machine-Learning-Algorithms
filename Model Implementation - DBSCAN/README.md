@@ -26,7 +26,7 @@
 ## DBSCAN Implementation
 'DBSCAN_Implementation.ipynb' is a Juypter Notebook documented in Python and Markdown language analyzing the '2021-11-ml-09-k-means-animals-dataset.csv' dataset using DBSCAN primarily using the sklearn.cluster.DBSCAN() function in conjuction with sklearn.metrics.silhouette_score() and numerious other functions listed in Modules. 
 
-## K Means Algoithm Comparision
+## K Means Algorithm Comparision
 'K_Means_Comparison.ipynb' is a Juypter Notebook documented in Python and Markdown language analyzing the '2021-11-ml-09-k-means-animals-dataset.csv' dataset using the K Means algorithm of sklearn.cluster.KMeans() to show comparisions of clustering in the file 'DBSCAN_Presentation.pdf'. 
 
 ## Modules
